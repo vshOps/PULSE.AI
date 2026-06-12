@@ -91,11 +91,11 @@ PULSE predicts upcoming health events weeks before they happen. For each patient
 
 ## Pages
 
-1. **Doctor Dashboard** — Patient queue, Mirror Score, Causal Chain, Care Journey Map, Health Thread
-2. **Patient View** — Mobile-first Mirror Score, daily tasks, care updates
+1. **Doctor Dashboard** — Patient queue, Mirror Score, Causal Chain, Care Journey Map, Health Thread.
+2. **Patient View** — Mobile-first Mirror Score, daily tasks, care updates.
 3. **Care Web** — Visual node diagram of the full care team
-4. **Causal Chain Explorer** — Full root cause visualization with intervention points
-5. **Analytics Dashboard** — Clinic-wide health metrics and risk distribution
+4. **Causal Chain Explorer** — Full root cause visualization with intervention points.
+5. **Analytics Dashboard** — Clinic-wide health metrics and risk distribution.
 
 ---
 
