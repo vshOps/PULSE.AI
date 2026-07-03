@@ -24,7 +24,7 @@ Healthcare fails not inside the clinic — it fails in the silence between visit
 - Patient sees doctor for 10 minutes every 3 months.
 - Leaves with a prescription they half understand.
 - No follow-up system, no monitoring, no connection.
-- Different doctors, pharmacists, specialists never communicate
+- Different doctors, pharmacists, specialists never communicate.
 - Family caregiver at home has no information or guidance
 - Preventable emergencies happen because nobody connected the dots
 
