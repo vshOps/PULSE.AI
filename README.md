@@ -21,7 +21,7 @@ PULSE fills that silence.
 
 Healthcare fails not inside the clinic — it fails in the silence between visits.
 
-- Patient sees doctor for 10 minutes every 3 months
+- Patient sees doctor for 10 minutes every 3 months.
 - Leaves with a prescription they half understand.
 - No follow-up system, no monitoring, no connection.
 - Different doctors, pharmacists, specialists never communicate
